@@ -69,18 +69,18 @@
 <!-- Resultados parciais -->
 <div align="left" class='result'>
 	<h3 align="left"> ➡ Matriz de Confusão ⬅</h3>
-	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/images/mlpr_0304.png" width=400" height="400"/>
+	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/ch03/images/mlpr_0304.png" width=400" height="400"/>
     <p>Obeserva-se que a quantidade de previsões correta é bem maior do que as incorretas, porém, não é um modelo "perfeito", visto que os valores fora da diagonal não são zeros.</p>
 </div>
 
 <div align="left" class='result'>
 	<h3 align="left"> ➡ Curva ROC para o algoritmo de Random Forest ⬅</h3>
-	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/images/mlpr_0305.png" width=400" height="400"/>
+	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/ch03/images/mlpr_0305.png" width=400" height="400"/>
     <p>Com valor de 0.85, está acima de 0.5, considerado aceitavél.</p>
 </div>
 
 <div align="left" class='result'>
 	<h3 align="left"> ➡ Curva de aprendizado para o algoritmo de Random Forest ⬅</h3>
-	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/images/mlpr_0306.png" width=400" height="400"/>
+	<img alt="#vendas" title="#vendas" src="https://github.com/6abi/Machine-Learning-Guia-O-Reilly/blob/main/ml_pocket_reference-master/ch03/images/mlpr_0306.png" width=400" height="400"/>
     <p>observa-se uma tendência crescente até um pouco mais de 800, depois disso, tem uma tendência a estabilização, portanto, a quantidade de dados da base é o suficiente para montar o modelo, não se faz necessário mais amostras.</p>
 </div>
